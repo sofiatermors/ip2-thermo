@@ -3,7 +3,7 @@ version: 1
 project:
   id: d4ed63d4-e4ba-4d57-b9c3-8f8af2dac267
   title: Python Thermodynamica Simulaties voor TN13015
-  # description:
+  # description: IP2
   # keywords: []
   authors: 
     - name: Freek Pols
